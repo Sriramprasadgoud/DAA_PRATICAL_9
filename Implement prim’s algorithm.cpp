@@ -73,7 +73,6 @@ int main()
 
     key[start] = 0;
 
-    // Prim's Algorithm
     for (int count = 0; count < n; count++)
     {
         int min = INF;
